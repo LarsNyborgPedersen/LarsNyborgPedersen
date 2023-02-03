@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**LarsNyborgPedersen/LarsNyborgPedersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+### Hi there. I'm Lars👋
+2
+​
+8
+- 🔭 I’m currently working on Machu Picchu audio guide Android & Iphone App
+9
+- 🌱 I’m currently learning React
+10
+- 👯 Always open to new opportunities!
+11
 - 🤔 I’m looking for help with ...
+12
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+13
+- 📫 How to reach me: larsnyborgpedersen@gmail.com
